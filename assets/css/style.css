@@ -2,7 +2,7 @@ body {
     font-family: 'Open Sans', sans-serif;
     font-size: 16px;
     line-height: 1;
-    background-image: url("/assets/img/time.gif")
+    background-image: url("./time.gif")
 
   }
   
@@ -21,7 +21,7 @@ textarea {
   background-color: rgb(0, 0, 0);
   color: #ffffff;
   font-family: Lucida Handwriting;
-  background-image: url("/assets/img/time.gif")
+  background-image: url("./time.gif")
 }
 
 
