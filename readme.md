@@ -104,7 +104,7 @@ buttons[i].on('click', function() {
 After importing bootstrap, jQuery, and Moment to our HTML file along with dynamically coding Javascript and  refractoring CSS, we were able to provide a clean, interactive, and functional schedule planner. 
 
 ## Submission
-This project was uploaded to GitHub at the following respository link:
+This project was uploaded to GitHub at the following repository link:
 [https://github.com/nhanng19/spacetime_schedule](https://github.com/nhanng19/spacetime_schedule)
 
 Deployed Web Application Link:
