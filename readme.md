@@ -1,7 +1,7 @@
 # 05_Work_Day__Scheduler_NN
 BootCamp Homework - 05 Third-Party APIs: Work Day Scheduler
 ## The Challenge
-Our client request us to create a simple calendar application that allows a user to save events for each hour of the day by modifying starter code. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery. We'll need to use the Moment.js library to work with date and time. Be sure to read the documentation carefully and concentrate on using Moment.js in the browser.
+Our client request us to create a simple calendar application that allows a user to save events for each hour of the day by modifying starter code. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery. We'll need to use the Moment.js library to work with date and time. 
 
 ![](./assets/img/front.gif)
 
